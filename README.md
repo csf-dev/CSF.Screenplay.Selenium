@@ -1,3 +1,10 @@
+# Repository archived
+
+Historically, I have had a hard time making my mind up between maintaining the Selenium extension to [CSF.Screenplay] in the main Screenplay repository and this separate one.
+For the sake of simplicity and discoverability, I have decided to move all of this logic into the main Screenplay repo for version 2.0 and above.
+This repository is now archived and will represent v1 of CSF.Screenplay.Selenium only.
+It will not receive any further updates.
+
 # CSF.Screenplay.Selenium
 This is an add-in to [CSF.Screenplay] for controlling a [Selenium WebDriver] from within Screenplay-based [BDD] tests.
 
